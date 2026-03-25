@@ -27,7 +27,7 @@ The dashboard provides **business-driven insights** with a clean and modern UI d
 
 ## 🏠 Overview Dashboard
 
-![Overview](Overview_dashboard.png)
+![Overview](Screenshots_images/Overview_dashboard.jpg)
 
 🔍 **Description:**
 - Displays overall business performance  
@@ -44,7 +44,7 @@ The dashboard provides **business-driven insights** with a clean and modern UI d
 
 ## 👥 Customer Analysis
 
-![Customer](customer_details.png)
+![Customer](Screenshots_images/customer_details.jpg)
 
 🔍 **Description:**
 - Focuses on customer behavior and segmentation  
@@ -64,7 +64,7 @@ The dashboard provides **business-driven insights** with a clean and modern UI d
 
 ## 🌍 Global Sales Analysis
 
-![Map](map.png)
+![Map](Screenshots_images/map.jpg)
 
 🔍 **Description:**
 - Visualizes sales distribution across countries  
@@ -80,7 +80,7 @@ The dashboard provides **business-driven insights** with a clean and modern UI d
 
 ## 🛍️ Product & Profit Analysis
 
-![Products](products_details.png)
+![Products](Screenshots_images/products_details.jpg)
 
 🔍 **Description:**
 - Deep dive into product performance and profitability  
