@@ -170,21 +170,8 @@ The dashboard provides **business-driven insights** with a clean and modern UI d
 
 ---
 
-# 🙌 Author
+## 👤 Author
 
 **Tushar Vala**  
-📧 tusharvala707@gmail.com  
-💼 Data Analyst | Python Developer  
-
----
-
-# ⭐ Conclusion
-
-This project demonstrates strong skills in:
-
-- Data Visualization  
-- Business Analysis  
-- Dashboard Design  
-- Insight Generation  
-
-💡 *Perfect for portfolio, interviews, and showcasing real-world analytics skills.*
+📊 Data Science Enthusiast  
+🐍 Python | Pandas | Machine Learning  
