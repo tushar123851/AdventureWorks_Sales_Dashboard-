@@ -9,7 +9,7 @@
 
 
 <p align="center">
-  <img src="Screenshots_images/adventuressales.gif" width="85%">
+  <img src="Screenshots_images/adventuresales.gif" width="85%">
 </p>
 
 ---
